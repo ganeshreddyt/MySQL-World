@@ -1,5 +1,5 @@
 # 💾 SQL-World
-### **"In the database of life, I always SELECT happiness FROM opportunities WHERE challenges > 0;"** 
+#### **"In the database of life, I always SELECT happiness FROM opportunities WHERE challenges > 0;"** 
 
 
 
