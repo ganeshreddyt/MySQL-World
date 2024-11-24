@@ -1,6 +1,9 @@
 # 💾 SQL-World
 ### **"In the database of life, I always SELECT happiness FROM opportunities WHERE challenges > 0;"** 😉
 
+
+
+
 👋 Welcome to my SQL World! Here, I showcase my expertise in SQL through two exciting projects, highlighting my ability to analyze real-world datasets and extract actionable insights.  
 
 ---
