@@ -23,13 +23,7 @@ select * from travel_items;
 -- approach) Recursive query.
 -- Recaping Recusion syntax....
 -- Print 1 to N numbers
-with recursive cte as(
-   select 1 as n
-   union
-   select n + 1 from cte where n < 10 )
-select * from cte;
 
- 
 with recursive cte as(
 select 1 as n -- Base condition
 union all
