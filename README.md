@@ -21,7 +21,7 @@
 - 📍 Top-performing locations and cuisines.  
 - 💰 Ideal price ranges linked to customer satisfaction.  
 
-🔗 **[View Project Here](https://github.com/ganeshreddyt/MySQL-World/edit/main/Zomato%20Portfolio%20Projet.sql)**  
+🔗 **[View Project Here](https://github.com/ganeshreddyt/MySQL-World/edit/main/Zomato%20Portfolio%20Project.sql)**  
 
 ---
 
@@ -35,6 +35,8 @@
 **Insights Delivered:**  
 - 🌟 Most engaging post types and peak activity times.  
 - 🔍 Patterns in user interaction and content sharing.  
+
+🔗 **[View Project Here](https://github.com/ganeshreddyt/MySQL-World/edit/main/Instagram%20Portfolio%20Project.sql)**  
 
 ---
 
