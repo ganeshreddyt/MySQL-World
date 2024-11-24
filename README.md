@@ -21,6 +21,8 @@
 - 📍 Top-performing locations and cuisines.  
 - 💰 Ideal price ranges linked to customer satisfaction.  
 
+🔗 **[View Project Here](https://github.com/ganeshreddyt/MySQL-World/edit/main/Zomato%20Portfolio%20Projet.sql)**  
+
 ---
 
 ### 📷 Instagram Dataset Analysis  
