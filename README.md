@@ -4,7 +4,7 @@
 
 
 
-👋 Welcome to my SQL World! Here, I showcase my expertise in SQL through two exciting projects, along with the solutions to various interview questions that have further strengthened my skills. These experiences highlight my ability to analyze real-world datasets and extract actionable insights.
+👋 Welcome to my SQL World! Here, I showcase my expertise in SQL through exciting projects, along with the solutions to various interview questions that have further strengthened my skills. These experiences highlight my ability to analyze real-world datasets and extract actionable insights.
 
 ---
 
