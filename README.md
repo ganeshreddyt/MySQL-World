@@ -1,6 +1,7 @@
-# 💾 SQL Portfolio  
+# 💾 SQL-World
+**"In the database of life, I always SELECT happiness FROM opportunities WHERE challenges > 0;"** 😉
 
-👋 Welcome to my SQL portfolio! Here, I showcase my expertise in SQL through two exciting projects, highlighting my ability to analyze real-world datasets and extract actionable insights.  
+👋 Welcome to my SQL World! Here, I showcase my expertise in SQL through two exciting projects, highlighting my ability to analyze real-world datasets and extract actionable insights.  
 
 ---
 
@@ -33,17 +34,15 @@
 ---
 
 ## ✨ **SQL Concepts Mastered**  
-- 🔗 Joins & Subqueries  
-- 🚀 Window Functions  
-- 🔄 Recursive Queries & CTEs  
-- 🛠️ Performance Optimization  
+- 🔗 Basic to Advanced SQL   : Including joins, aggregations, subqueries, and CTEs.
+- 🚀 Window Functions        : For ranking, aggregating, and analyzing data within partitions.
+- 🔄 Recursive Queries       : For hierarchical and path analysis. 
+- 🛠️ Performance Optimization: Writing efficient queries for large datasets.
 
 ---
 
 ## 📬 **Let’s Connect!**  
 I’m open to opportunities in Data Analytics, Data Science, or related fields.  
-- 📧 **Email:** your.email@example.com  
-- 🌐 **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)  
-- 🖥️ **GitHub:** [Your Profile](https://github.com/yourprofile)
+- 📧 **Email:** ganeshreddy0616@gmail.com  
 
 💡 Thank you for visiting my portfolio!
